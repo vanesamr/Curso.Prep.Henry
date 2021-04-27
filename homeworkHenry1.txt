@@ -1,0 +1,35 @@
+
+1-
+
+Variables: Es una forma de otorgar un nombre y un valor a algo que voy a utilizar mas tarde. El valor puede ser un numero o una cadena de caracteres. El nombre de la variable es una cadena de caracteres pero sin espacios.
+          Por ejemplo: var miNombre = "Vanesa"   (Aca, las comillas indican que se trata de una cadena de caracteres)
+                       var misParesDeZapatos = 3 (No hay comillas porque es solo um numero)
+                       var miGato = "Mi gato se llama Pepe" 
+
+Strings: Un string es una cadena de caracteres que se definen por estar entre comillas simples o dobles ( ' ' o " " ).
+         Por ejemplo: 'Vanesa' o " Mi gato se llama Pepe".
+
+Funciones: Son tipos particulares de Objetos, llamados Callable objets que sirven para calcular, cambiar o hacer algo con las variables.
+           Es decir, son una conjunto de instrucciones con un fin en particular que dado un valor de entrada y arrojan un valor de salida.
+           Hay tres formas de escribir las funciones:
+           
+              function mifuncion () {}
+              var otraFuncion = function () {}
+              var yOtra = () => {}
+
+Argumentos: Los argumentos son las variables que le declaramos a una funcion para que puedad correrlas. 
+            Tambien podemos agregar multiples argumentos colocando una coa entre ellos.
+
+Return: Es la manera en que podemos hacer que los datos escapen de una funcion. 
+        Devuelve datos fuera de un funcion y todo lo que queda dentro de la funcion no es visible.
+        
+Declaraciones: Las declaracio if es la plabra clave para que el codigo corra segun un condicionante (puede suceder o no suceder x cosa)
+               
+Valores Booleanos: Estos son valores que segun las operaciones que ejecutemos en el codigo pueden declarar true o false, si o no y no otro tipo de respuesta. 
+
+  
+
+
+    
+
+                       
