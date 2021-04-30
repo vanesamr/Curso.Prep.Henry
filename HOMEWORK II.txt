@@ -1,0 +1,10 @@
+for : es una de las expresiones por las que JS recorre el software (mayormente compuesto por bucles). Tiene una sintaxis unica.
+La palabra clave for, seguida de parentesis y luego abrir y cerrar llaves. Dentro de los parentesis van las expresiones que quiero ejecutar en bucle.
+Es decir, declaro una variable, luego va una expresion condicional, y por ultimo, una declaracion que cerrara el bucle. Lo que 
+esta ocurriendo intrinsecamente es que las expresiones son true, se siguen ejecutando hasta que es false.
+
+&&: es un operador logico que representa un "Y" o "AND". Evalua si dos expresiones son verdaderas, con lo cual devolvera la respuesta true. Si una de ellas o ambas son falsas devolvera false.
+
+||: es otro operador logico que significa "o" u "or". determina si una de las expresiones es verdadera, sin importar si la otra es falsa. devuelve false solo si ambas son falsas.
+
+!: es el operador logico que signofica "no" o "not". devolvera el valor booleano (true o false) opuesto de lo que pasa en la expresion. 
