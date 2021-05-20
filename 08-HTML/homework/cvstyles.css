@@ -1,0 +1,54 @@
+body {
+    text-align:center;
+    background-image: url(https://img.freepik.com/vector-gratis/acuarela-copia-espacio-fondo-azul-degradado_23-2148475453.jpg?size=626&ext=jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#datos{
+    background:cornflowerblue;
+    height:1250px;
+    width:450px;
+    padding:50px;
+    border:15px solid lightseagreen;
+    padding:50px;
+    margin-right:100px;
+    display:inline-block;
+}      
+h1 {
+   color:burlywood;
+}
+h2 {
+   color:beige;
+}
+.divclass p{
+    color:whitesmoke;
+}
+#cvImagen{
+    margin-left: auto;
+    height:150px;
+    width:100px;
+}
+#words{
+    display: inline-block;
+    vertical-align: top;
+}
+#courseDiv{
+    background:cornflowerblue;
+    height:200px;
+    width:200px;
+    padding:50px;
+    border:15px solid lightseagreen;
+    padding:50px;
+    margin-right: 100px;
+    margin-bottom:15px;
+}
+#expectDiv{
+    background:cornflowerblue;
+    height:200px;
+    width:200px;
+    padding:50px;
+    border:15px solid lightseagreen;
+    padding:50px;
+    margin-right: 100px
+}
